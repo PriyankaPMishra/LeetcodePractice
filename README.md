@@ -25,13 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0016-3sum-closest) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
