@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0016-3sum-closest) |
+| [0704-binary-search](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0904-fruit-into-baskets) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
