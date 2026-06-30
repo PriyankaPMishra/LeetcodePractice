@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0904-fruit-into-baskets) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3838-weighted-word-mapping](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/3838-weighted-word-mapping) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
