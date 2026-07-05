@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0016-3sum-closest) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0904-fruit-into-baskets) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Breadth-First Search
