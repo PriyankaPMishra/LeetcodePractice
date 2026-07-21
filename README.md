@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/3838-weighted-word-mapping) |
 ## Counting
 | Problem Name | Difficulty |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->
