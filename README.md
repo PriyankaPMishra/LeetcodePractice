@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0904-fruit-into-baskets) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0016-3sum-closest) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
