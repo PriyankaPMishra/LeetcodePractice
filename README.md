@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/3838-weighted-word-mapping) |
 ## Counting
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 | Problem Name | Difficulty |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
