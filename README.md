@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/3838-weighted-word-mapping) |
 ## Counting
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
