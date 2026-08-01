@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0486-predict-the-winner](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -154,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0486-predict-the-winner/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
