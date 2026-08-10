@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1510-stone-game-iv/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1510-stone-game-iv/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,8 +181,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1510-stone-game-iv/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3310-remove-methods-from-project/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
