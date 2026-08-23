@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1927-sum-game](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Binary Search
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1510-stone-game-iv/) | Hard |
+| [1927-sum-game](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1510-stone-game-iv/) | Hard |
+| [1927-sum-game](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1927-sum-game/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
