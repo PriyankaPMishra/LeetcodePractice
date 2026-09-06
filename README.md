@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0115-distinct-subsequences/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyankaPMishra/LeetcodePractice/tree/master/1189-maximum-number-of-balloons) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0115-distinct-subsequences/) | Hard |
 | [0486-predict-the-winner](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/PriyankaPMishra/LeetcodePractice/tree/main/1510-stone-game-iv/) | Hard |
